@@ -7,5 +7,9 @@ public class test {
             j = j + i;
         }
         System.out.println(j);
+
+        System.out.println("wahooo");
+        System.out.println("waheee");
+        System.out.println("branch_b_is_cool!");
     }
 }
